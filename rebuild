@@ -45,6 +45,7 @@
 # loop_rebuild       : Loop to rebuild Armbian files
 #
 #================================ Set make environment variables ================================
+img_mb=6000
 #
 # Related file storage path
 current_path="${PWD}"
